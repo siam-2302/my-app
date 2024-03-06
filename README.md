@@ -1,7 +1,7 @@
-# Welcome to streamlit
+# Welcome to my Repository
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+by: BUSADRE CHRISTIAN SIAM B.
+Section: BSCS3A
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+[My Streamlit APP]([https://new-repository-czmlosou21l.streamlit.app/](https://myapp12345.streamlit.app/Block_cipher)https://myapp12345.streamlit.app/Block_cipher)
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
