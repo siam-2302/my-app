@@ -28,6 +28,16 @@ def run():
     st.write("BY: CHRISTIAN SIAM B BUSADRE")
 
 
+    st.markdown(
+        """
+    Here you can select from a variety of ciphers:
+    - [XOR Cipher]: A simple encryption technique using XOR operation.
+    - [Caesar Cipher]: A substitution cipher where each letter in the plaintext is shifted a certain number of places down the alphabet.
+    - [Primitive Root]: A mathematical concept used in certain cryptographic algorithms.
+    - [Block Cipher]: A symmetric key cryptographic algorithm operating on fixed-length groups of bits, called blocks.
+    """
+    )
+
 
 if __name__ == "__main__":
     run()
