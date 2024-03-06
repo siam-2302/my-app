@@ -46,7 +46,7 @@ def main():
     plaintext = st.text_input("Enter plaintext:")
     key = st.text_input("Enter key:")
     block_size = st.number_input("Enter block size:", value=16, step=1)
-    if st.button("Encrypt/Decrypt"):
+    if st.button("submit"):
         plaintext_bytes = bytes(plaintext.encode())
         key_bytes = bytes(key.encode())
         if block_size not in [8, 16, 32, 64, 128]:
